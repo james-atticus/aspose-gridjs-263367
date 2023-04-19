@@ -4723,6 +4723,11 @@ grapheme-splitter@^1.0.4:
   resolved "https://registry.yarnpkg.com/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz#9cf3a665c6247479896834af35cf1dbb4400767e"
   integrity sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==
 
+gridjs-spreadsheet@^23.4.2:
+  version "23.4.2"
+  resolved "https://registry.yarnpkg.com/gridjs-spreadsheet/-/gridjs-spreadsheet-23.4.2.tgz#a0489bbfb98d838d5c5a05a3629c089d788f33e6"
+  integrity sha512-4YerR2R50eRMs1wtYcns6TkRNOpVMxLpFDl8kC/8fXs05xGe1wG5Bc0GAvjKDGm2kafqp8fIUOQiT6rsWylBUA==
+
 gzip-size@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/gzip-size/-/gzip-size-6.0.0.tgz#065367fd50c239c0671cbcbad5be3e2eeb10e462"

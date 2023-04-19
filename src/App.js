@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import Spreadsheet from 'gridjs-spreadsheet';
+
 function App() {
   return (
     <div className="App">
